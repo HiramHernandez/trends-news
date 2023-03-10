@@ -1,0 +1,1 @@
+https://www.serverlessnotes.com/docs/create-an-azure-function-with-python
